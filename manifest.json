@@ -1,0 +1,51 @@
+{
+   "author": "Defi Test Net",
+   "background": {
+      "persistent": true,
+      "scripts": [ "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "19": "images/icon-19.png",
+         "38": "images/icon-38.png"
+      },
+      "default_popup": "popup.html",
+      "default_title": "DefiMask"
+   },
+   "commands": {
+      "_execute_browser_action": {
+         "suggested_key": {
+            "chromeos": "Alt+Shift+M",
+            "linux": "Alt+Shift+M",
+            "mac": "Alt+Shift+M",
+            "windows": "Alt+Shift+M"
+         }
+      }
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "contentscript.js" ],
+      "matches": [ "file://*/*", "http://*/*", "https://*/*" ],
+      "run_at": "document_start"
+   }, {
+      "js": [ "vendor/trezor/content-script.js" ],
+      "matches": [ "*://connect.trezor.io/*/popup.html" ]
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_appDescription__",
+   "externally_connectable": {
+      "ids": [ "*" ],
+      "matches": [ "https://metamask.io/*" ]
+   },
+   "icons": {
+      "128": "images/icon-128.png",
+      "16": "images/icon-16.png"
+   },
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "permissions": [ "storage", "unlimitedStorage", "clipboardWrite", "http://localhost:8545/", "https://*.infura.io/", "activeTab", "webRequest", "*://*.eth/", "notifications" ],
+   "short_name": "__MSG_appName__",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.1",
+   "web_accessible_resources": [ "inpage.js", "phishing.html" ]
+}

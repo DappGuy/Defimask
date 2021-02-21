@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Camada_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 150 150" style="enable-background:new 0 0 150 150;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#4385FF;stroke-width:3;}
+</style>
+<circle class="st0" cx="75" cy="75" r="44.4">
+<animate  accumulate="none" additive="replace" attributeName="r" begin="-1s" calcMode="spline" dur="2" fill="remove" keySplines="0 0.2 0.8 1" keyTimes="0;1" repeatCount="indefinite" restart="always" values="0;40">
+	</animate>
+<animate  accumulate="none" additive="replace" attributeName="opacity" begin="-1s" calcMode="spline" dur="2" fill="remove" keySplines="0.2 0 0.8 1" keyTimes="0;1" repeatCount="indefinite" restart="always" values="1;0">
+	</animate>
+</circle>
+<circle class="st0" cx="75" cy="75" r="12.2">
+<animate  accumulate="none" additive="replace" attributeName="r" begin="0s" calcMode="spline" dur="2" fill="remove" keySplines="0 0.2 0.8 1" keyTimes="0;1" repeatCount="indefinite" restart="always" values="0;40">
+	</animate>
+<animate  accumulate="none" additive="replace" attributeName="opacity" begin="0s" calcMode="spline" dur="2" fill="remove" keySplines="0.2 0 0.8 1" keyTimes="0;1" repeatCount="indefinite" restart="always" values="1;0">
+	</animate>
+</circle>
+</svg>

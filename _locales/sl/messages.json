@@ -1,0 +1,822 @@
+{
+   "accept": {
+      "message": "Sprejmi"
+   },
+   "account": {
+      "message": "Račun"
+   },
+   "accountDetails": {
+      "message": "Podrobnosti računa"
+   },
+   "accountName": {
+      "message": "Ime računa"
+   },
+   "addCustomToken": {
+      "message": "Dodaj žeton po meri"
+   },
+   "addToken": {
+      "message": "Dodaj žeton"
+   },
+   "addTokens": {
+      "message": "Dodaj žetone"
+   },
+   "address": {
+      "message": "Naslov"
+   },
+   "amount": {
+      "message": "Znesek"
+   },
+   "amountPlusGas": {
+      "message": "Znesek + Gas"
+   },
+   "appDescription": {
+      "description": "The description of the application",
+      "message": "Denarnica za Defi v brskalniku"
+   },
+   "appName": {
+      "description": "The name of the application",
+      "message": "DefiMask"
+   },
+   "attemptingConnect": {
+      "message": "Povezovanje z verigo blokov ..."
+   },
+   "attributions": {
+      "message": "Dodelitve"
+   },
+   "available": {
+      "message": "Na voljo"
+   },
+   "back": {
+      "message": "Nazaj"
+   },
+   "balance": {
+      "message": "Znesek:"
+   },
+   "balanceIsInsufficientGas": {
+      "message": "Napačen znesek za skupno gas vrednost"
+   },
+   "balances": {
+      "message": "Vaš znesek"
+   },
+   "beta": {
+      "message": "BETA"
+   },
+   "betweenMinAndMax": {
+      "description": "helper for inputting hex as decimal input",
+      "message": "mora biti večji ali enak $1 in manjši ali enak $1."
+   },
+   "blockiesIdenticon": {
+      "message": "Uporabite Blockies Identicon"
+   },
+   "borrowDharma": {
+      "message": "Izposoja z Dharma (Beta)"
+   },
+   "builtInCalifornia": {
+      "message": "DefiMask je ustvarjen v Kaliforniji."
+   },
+   "buy": {
+      "message": "Kupi"
+   },
+   "buyCoinbase": {
+      "message": "Kupi na Coinbase"
+   },
+   "buyCoinbaseExplainer": {
+      "message": "Coinbase je najpopularnejši načun za kupovanje in prodajo bitcoinov, ethereuma, in litecoina."
+   },
+   "cancel": {
+      "message": "Prekliči"
+   },
+   "classicInterface": {
+      "message": "Uporabi navaden način"
+   },
+   "clickCopy": {
+      "message": "Kliknite za kopiranje"
+   },
+   "confirm": {
+      "message": "Potrdi"
+   },
+   "confirmContract": {
+      "message": "Potrdi pogodbo"
+   },
+   "confirmPassword": {
+      "message": "Potrdi geslo"
+   },
+   "confirmTransaction": {
+      "message": "Potrdi transakcijo"
+   },
+   "continue": {
+      "message": "Nadaljuj"
+   },
+   "continueToCoinbase": {
+      "message": "Nadaljuj na Coinbase"
+   },
+   "contractDeployment": {
+      "message": "Ustvarjanje pogodbe"
+   },
+   "conversionProgress": {
+      "message": "Poteka pretvorba"
+   },
+   "copiedButton": {
+      "message": "Kopirano"
+   },
+   "copiedClipboard": {
+      "message": "Kopirano v odložišče"
+   },
+   "copiedExclamation": {
+      "message": "Kopirano!"
+   },
+   "copiedSafe": {
+      "message": "Prilepil sem ga na varno!"
+   },
+   "copy": {
+      "message": "Kopiraj"
+   },
+   "copyButton": {
+      "message": " Kopiraj "
+   },
+   "copyPrivateKey": {
+      "message": "To je vaš zesebni ključ (kliknite za kopiranje)"
+   },
+   "copyToClipboard": {
+      "message": "Kopiraj v odložišče"
+   },
+   "create": {
+      "message": "Ustvari"
+   },
+   "createAccount": {
+      "message": "Ustvari račun"
+   },
+   "createDen": {
+      "message": "Ustvari"
+   },
+   "crypto": {
+      "description": "Exchange type (cryptocurrencies)",
+      "message": "Kripto"
+   },
+   "currentConversion": {
+      "message": "Trenutna cena"
+   },
+   "currentNetwork": {
+      "message": "Trenutno omrežje"
+   },
+   "customGas": {
+      "message": "Prilagodi gas"
+   },
+   "customRPC": {
+      "message": "Poljuben RPC"
+   },
+   "customize": {
+      "message": "Prilagodi"
+   },
+   "decimal": {
+      "message": "Decimalke natančnosti"
+   },
+   "decimalsMustZerotoTen": {
+      "message": "Decimalk mora biti vsaj 0, in ne več kot 36."
+   },
+   "defaultNetwork": {
+      "message": "Privzeto omrežje za transakcije je Main Net."
+   },
+   "denExplainer": {
+      "message": "DEN je vaša šifrirana shramba v DefiMasku."
+   },
+   "deposit": {
+      "message": "Vplačaj"
+   },
+   "depositBTC": {
+      "message": "Vplačajte vaš BTC na spodnji naslov:"
+   },
+   "depositCoin": {
+      "description": "Tells the user what coin they have selected to deposit with shapeshift",
+      "message": "Vplačajte $1 na spodnji naslov"
+   },
+   "depositEth": {
+      "message": "Vplačilo ETH"
+   },
+   "depositEther": {
+      "message": "Vplačilo ethera"
+   },
+   "depositFiat": {
+      "message": "Vplačilo s klasičnimi valutami"
+   },
+   "depositFromAccount": {
+      "message": "Vplačilo iz drugega računa"
+   },
+   "depositShapeShift": {
+      "message": "Vplačilo z ShapeShift"
+   },
+   "depositShapeShiftExplainer": {
+      "message": "Če imate druge kriptovalute, lahko vpačate ether neposredno v DefiMask. Brez računov."
+   },
+   "details": {
+      "message": "Podrobnosti"
+   },
+   "directDeposit": {
+      "message": "Direktno vplačilo"
+   },
+   "directDepositEther": {
+      "message": "Direktno vplačilo ehera"
+   },
+   "directDepositEtherExplainer": {
+      "message": "Če že imate ether, ga lahko najhitreje dobite v DefiMask z direktnim vplačilom."
+   },
+   "done": {
+      "message": "Končano"
+   },
+   "downloadStateLogs": {
+      "message": "Prenesi state dnevnike"
+   },
+   "edit": {
+      "message": "Uredi"
+   },
+   "editAccountName": {
+      "message": "Uredi ime računa"
+   },
+   "emailUs": {
+      "message": "Pišite nam!"
+   },
+   "encryptNewDen": {
+      "message": "Šifrirajte DEN"
+   },
+   "enterPassword": {
+      "message": "Vpišite geslo"
+   },
+   "enterPasswordConfirm": {
+      "message": "Potrdite geslo"
+   },
+   "etherscanView": {
+      "message": "Poglejte račun na Etherscan"
+   },
+   "exchangeRate": {
+      "message": "Menjalni tečaj"
+   },
+   "exportPrivateKey": {
+      "message": "Izvozi zasebni ključ"
+   },
+   "exportPrivateKeyWarning": {
+      "message": "Izvažanje zasebnih ključev je na lastno odgovornost."
+   },
+   "failed": {
+      "message": "Ni uspelo"
+   },
+   "fiat": {
+      "description": "Exchange type",
+      "message": "FIAT"
+   },
+   "fileImportFail": {
+      "description": "Helps user import their account from a JSON file",
+      "message": "Uvoz z datoteko ni uspel? Kliknite tukaj!"
+   },
+   "followTwitter": {
+      "message": "Sledite nam na Twitterju"
+   },
+   "from": {
+      "message": "Od"
+   },
+   "fromShapeShift": {
+      "message": "Od ShapeShift"
+   },
+   "fromToSame": {
+      "message": "From and To address cannot be the same"
+   },
+   "gas": {
+      "description": "Short indication of gas cost",
+      "message": "Gas"
+   },
+   "gasFee": {
+      "message": "Gas fee"
+   },
+   "gasLimit": {
+      "message": "Gas limit"
+   },
+   "gasLimitCalculation": {
+      "message": "Priporočen gas limit je izračunan glede na omrežje."
+   },
+   "gasLimitRequired": {
+      "message": "Gas limit je zahtevan"
+   },
+   "gasLimitTooLow": {
+      "message": "Gas limit mora biti najmanj 21000"
+   },
+   "gasPrice": {
+      "message": "Gas price (GWEI)"
+   },
+   "gasPriceCalculation": {
+      "message": "Priporočen gas price je izračunan glede na omrežje"
+   },
+   "gasPriceRequired": {
+      "message": "Gas price je zahtevan"
+   },
+   "generatingSeed": {
+      "message": "Ustvarjenje seed ..."
+   },
+   "getEther": {
+      "message": "Pridobite ether"
+   },
+   "getEtherFromFaucet": {
+      "description": "Displays network name for Ether faucet",
+      "message": "Pridobite ether iz fauceta za $1"
+   },
+   "greaterThanMin": {
+      "description": "helper for inputting hex as decimal input",
+      "message": "mora biti višji ali enak $1."
+   },
+   "here": {
+      "description": "as in -click here- for more information (goes with troubleTokenBalances)",
+      "message": "tukaj"
+   },
+   "hereList": {
+      "message": "Tukaj je seznam!!!"
+   },
+   "hide": {
+      "message": "Skrij"
+   },
+   "hideToken": {
+      "message": "Skrij žeton"
+   },
+   "hideTokenPrompt": {
+      "message": "Skrijem žeton?"
+   },
+   "holdEther": {
+      "message": "Omogoča vam, da imate eter in žetone in služi kot most za decentralizirane aplikacije."
+   },
+   "howToDeposit": {
+      "message": "Kako želite vplačati ether?"
+   },
+   "import": {
+      "description": "Button to import an account from a selected file",
+      "message": "Uvozi"
+   },
+   "importAccount": {
+      "message": "Uvozi račun"
+   },
+   "importAccountMsg": {
+      "message": " Uvoženi računi ne bodo povezani s prvotnim seedphaseom. Preberite več o uvoženih računih "
+   },
+   "importAnAccount": {
+      "message": "Uvozi račun"
+   },
+   "importDen": {
+      "message": "Uvozi DEN"
+   },
+   "imported": {
+      "description": "status showing that an account has been fully loaded into the keyring",
+      "message": "Uvoženo"
+   },
+   "infoHelp": {
+      "message": "Info & Pomoč"
+   },
+   "insufficientFunds": {
+      "message": "Nezadostna sredstva."
+   },
+   "insufficientTokens": {
+      "message": "Nezadostni žetoni."
+   },
+   "invalidAddress": {
+      "message": "Nepravilen naslov"
+   },
+   "invalidAddressRecipient": {
+      "message": "Prejemnikov naslov je neveljaven"
+   },
+   "invalidGasParams": {
+      "message": "Nepravilno nastavljen gas"
+   },
+   "invalidInput": {
+      "message": "Napačen vnos."
+   },
+   "invalidRPC": {
+      "message": "Napačen RPC URI"
+   },
+   "invalidRequest": {
+      "message": "Napačna zahteva"
+   },
+   "jsonFail": {
+      "message": "Nekaj je bilo narobe. Prepričajte se, da je JSON datoteka pravilno oblikovana."
+   },
+   "jsonFile": {
+      "description": "format for importing an account",
+      "message": "JSON datoteka"
+   },
+   "knowledgeDataBase": {
+      "message": "Obiščite našo pomoč"
+   },
+   "kovan": {
+      "message": "Testno omrežje Kovan"
+   },
+   "lessThanMax": {
+      "description": "helper for inputting hex as decimal input",
+      "message": "mora biti večji ali enak $1."
+   },
+   "likeToAddTokens": {
+      "message": "Želite dodati te žetone?"
+   },
+   "limit": {
+      "message": "Omejitev"
+   },
+   "loading": {
+      "message": "Nalaganje ..."
+   },
+   "loadingTokens": {
+      "message": "Nalaganje žetonov ..."
+   },
+   "localhost": {
+      "message": "Localhost 8545"
+   },
+   "login": {
+      "message": "Prijava"
+   },
+   "logout": {
+      "message": "Odjava"
+   },
+   "loose": {
+      "message": "Loose"
+   },
+   "loweCaseWords": {
+      "message": "seed words imajo lahko le male črke"
+   },
+   "mainnet": {
+      "message": "Glavno omrežje"
+   },
+   "message": {
+      "message": "Sporočilo"
+   },
+   "metamaskDescription": {
+      "message": "DefiMask je varen identitetni sklad za Ethereum."
+   },
+   "min": {
+      "message": "Najmanj"
+   },
+   "mustSelectOne": {
+      "message": "Izbran mora biti vsaj 1 žeton."
+   },
+   "myAccounts": {
+      "message": "Moji računi"
+   },
+   "needEtherInWallet": {
+      "message": "Za interakcijo z decentraliziranimi aplikacijami, ki uporabljajo DefiMask, boste v svoji denarnici potrebovali eter."
+   },
+   "needImportFile": {
+      "description": "User is important an account and needs to add a file to continue",
+      "message": "Za uvoz morate izbrati datoteko."
+   },
+   "needImportPassword": {
+      "description": "Password and file needed to import an account",
+      "message": "Za izbrano datoteko morate vnesti geslo."
+   },
+   "negativeETH": {
+      "message": "Ni mogoče poslati negativne vsote ETH."
+   },
+   "networks": {
+      "message": "Omrežja"
+   },
+   "newAccount": {
+      "message": "Nov račun"
+   },
+   "newAccountNumberName": {
+      "description": "Default name of next account to be created on create account screen",
+      "message": "Račun $1"
+   },
+   "newContract": {
+      "message": "Nova pogodba"
+   },
+   "newPassword": {
+      "message": "Novo geslo (min. 8. črk)"
+   },
+   "newRPC": {
+      "message": "Nov RPC URL"
+   },
+   "newRecipient": {
+      "message": "Nov prejemnik"
+   },
+   "next": {
+      "message": "Naprej"
+   },
+   "noAddressForName": {
+      "message": "Za to ime ni bil nastavljen noben naslov."
+   },
+   "noDeposits": {
+      "message": "Ni prejetih vplačil"
+   },
+   "noTransactionHistory": {
+      "message": "Ni zgodovine transakcij."
+   },
+   "noTransactions": {
+      "message": "Ni transakcij"
+   },
+   "notStarted": {
+      "message": "Ni se začelo"
+   },
+   "oldUI": {
+      "message": "Star UI"
+   },
+   "oldUIMessage": {
+      "message": "Vrnili ste se v star uporabniški vmesnik. V novega se lahko vrnete z možnostjo v spustnem meniju v zgornjem desnem kotu."
+   },
+   "or": {
+      "description": "choice between creating or importing a new account",
+      "message": "ali"
+   },
+   "passwordCorrect": {
+      "message": "Prepričajte se, da je geslo pravilno."
+   },
+   "passwordMismatch": {
+      "description": "in password creation process, the two new password fields did not match",
+      "message": "gesli se ne ujemata"
+   },
+   "passwordShort": {
+      "description": "in password creation process, the password is not long enough to be secure",
+      "message": "geslo ni dovolj dolgo"
+   },
+   "pastePrivateKey": {
+      "description": "For importing an account from a private key",
+      "message": "Tukaj prilepite zasebni ključ:"
+   },
+   "pasteSeed": {
+      "message": "Tukaj prilepite seed phrase!"
+   },
+   "personalAddressDetected": {
+      "message": "Osebni naslov je zaznan. Vnesite naslov žetona."
+   },
+   "pleaseReviewTransaction": {
+      "message": "Preglejte transakcijo."
+   },
+   "poa": {
+      "message": "[Not translated]"
+   },
+   "privacyMsg": {
+      "message": "Politika zasebnosti"
+   },
+   "privateKey": {
+      "description": "select this type of file to use to import an account",
+      "message": "Zasebni ključ"
+   },
+   "privateKeyWarning": {
+      "message": "Opozorilo: Nikoli ne razkrijte tega ključa. Vsakdo s svojimi zasebnimi ključi lahko ukrade vse premoženje v računu."
+   },
+   "privateNetwork": {
+      "message": "Zasebno omrežje"
+   },
+   "qrCode": {
+      "message": "Prikaži QR kodo"
+   },
+   "readMore": {
+      "message": "Preberite več."
+   },
+   "readMore2": {
+      "message": "Preberite več."
+   },
+   "readdToken": {
+      "message": "Ta žeton lahko dodate tudi v prihodnosti, tako da odprete možnost »Dodaj žeton« v meniju z računi."
+   },
+   "receive": {
+      "message": "Prejmite"
+   },
+   "recipientAddress": {
+      "message": "Prejemnikov naslov"
+   },
+   "refundAddress": {
+      "message": "Vaš naslov za vračilo"
+   },
+   "rejected": {
+      "message": "Zavrnjeno"
+   },
+   "required": {
+      "message": "Zahtevano"
+   },
+   "resetAccount": {
+      "message": "Ponastavi račun"
+   },
+   "restoreFromSeed": {
+      "message": "Obnovi iz seed phrase"
+   },
+   "retryWithMoreGas": {
+      "message": "Poskusi z višjim gas price"
+   },
+   "revealSeedWords": {
+      "message": "Prikaži seed words"
+   },
+   "revealSeedWordsWarning": {
+      "message": "Ne obnovite seed words na javnem mestu! Te besede se lahko uporabijo za krajo vseh vaših računov."
+   },
+   "revert": {
+      "message": "Povrni"
+   },
+   "rinkeby": {
+      "message": "Testno omrežje Rinkeby"
+   },
+   "ropsten": {
+      "message": "Testno omrežje Ropsten"
+   },
+   "sampleAccountName": {
+      "description": "Help user understand concept of adding a human-readable name to their account",
+      "message": "npr. Moj nov račun"
+   },
+   "save": {
+      "message": "Shrani"
+   },
+   "saveAsFile": {
+      "description": "Account export process",
+      "message": "Shrani kot datoteko"
+   },
+   "saveSeedAsFile": {
+      "message": "Shrani seed words kot datoteko"
+   },
+   "search": {
+      "message": "Iskanje"
+   },
+   "secretPhrase": {
+      "message": "Tukaj vnesite svoje seed words, da obnovite svoje račune."
+   },
+   "seedPhraseReq": {
+      "message": "seed phrases so dolgi 12 besed"
+   },
+   "select": {
+      "message": "Izberi"
+   },
+   "selectCurrency": {
+      "message": "Izberi valuto"
+   },
+   "selectService": {
+      "message": "Izberi storitev"
+   },
+   "selectType": {
+      "message": "Izberi vrsto"
+   },
+   "send": {
+      "message": "Pošlji"
+   },
+   "sendETH": {
+      "message": "Pošlji ETH"
+   },
+   "sendTokens": {
+      "message": "Pošlji žetone"
+   },
+   "sendTokensAnywhere": {
+      "message": "Pošljite žetone vsem, ki imajo Ethereum račun"
+   },
+   "settings": {
+      "message": "Nastavitve"
+   },
+   "shapeshiftBuy": {
+      "message": "Kupite z Shapeshift"
+   },
+   "showPrivateKeys": {
+      "message": "Prikaži zasebne ključe"
+   },
+   "showQRCode": {
+      "message": "Prikaži QR kodo"
+   },
+   "sigRequest": {
+      "message": "Zahteva za podpis"
+   },
+   "sigRequested": {
+      "message": "Podpis je zahtevan"
+   },
+   "sign": {
+      "message": "Podpiši"
+   },
+   "signMessage": {
+      "message": "Podpiši sporočilo"
+   },
+   "signNotice": {
+      "message": "To podpisovanje lahko povzroči \nnevarne stranske učinke. Podpisujte samo sporočila \nstrani, ki jim zaupate s svojim celotnim računom.\n Ta nevarna funkcija bo odstranjena v prihodnji različici. "
+   },
+   "spaceBetween": {
+      "message": "med besedami je lahko samo presledek"
+   },
+   "stateLogs": {
+      "message": "State dnevniki"
+   },
+   "stateLogsDescription": {
+      "message": "State dnevniki vsebujejo naslove vašega računa in poslane transakcije.."
+   },
+   "status": {
+      "message": "Status"
+   },
+   "submit": {
+      "message": "Potrdi"
+   },
+   "supportCenter": {
+      "message": "Obiščite našo podporo"
+   },
+   "symbolBetweenZeroTen": {
+      "message": "Simbol mora biti dolg od 0 do 10 znakov."
+   },
+   "takesTooLong": {
+      "message": "Traja predolgo?"
+   },
+   "terms": {
+      "message": "Pogoji uporabe"
+   },
+   "testFaucet": {
+      "message": "Testni faucet"
+   },
+   "to": {
+      "message": "Za"
+   },
+   "toETHviaShapeShift": {
+      "description": "system will fill in deposit type in start of message",
+      "message": "$1 v ETH prek ShapeShift"
+   },
+   "tokenAddress": {
+      "message": "Naslov žetona"
+   },
+   "tokenAlreadyAdded": {
+      "message": "Žeton je že bil dodan."
+   },
+   "tokenBalance": {
+      "message": "Vaš znesek žetona:"
+   },
+   "tokenSelection": {
+      "message": "Poiščite žetone ali jih izberite z našega seznama priljubljenih žetonov."
+   },
+   "tokenSymbol": {
+      "message": "Simbol žetona"
+   },
+   "tokenWarning1": {
+      "message": "Spremljajte žetone, ki ste jih kupili s svojim DefiMask računom. Če ste kupili žetone z drugačnim računom, ti žetoni ne bodo prikazani tukaj."
+   },
+   "total": {
+      "message": "Skupno"
+   },
+   "transactionMemo": {
+      "message": "Opis transakcije (ni zahtevano)"
+   },
+   "transactionNumber": {
+      "message": "Številka transakcije"
+   },
+   "transactions": {
+      "message": "transakcije"
+   },
+   "transfers": {
+      "message": "Prenosi"
+   },
+   "troubleTokenBalances": {
+      "description": "Followed by a link (here) to view token balances",
+      "message": "Imeli smo težave pri nalaganju vaših žetonov. Ogledate si jih lahko "
+   },
+   "twelveWords": {
+      "message": "Edini način za obnovitev DefiMask računa, je teh 12 besed.\nShranite jih na varno in skrivno mesto."
+   },
+   "typePassword": {
+      "message": "Vpišite vaše geslo"
+   },
+   "uiWelcome": {
+      "message": "Dobrodošli v nov UI (Beta)"
+   },
+   "uiWelcomeMessage": {
+      "message": "Zdaj uporabljate novi DefiMask uporabniški vmesnik. Razglejte se, preizkusite nove funkcije, kot so pošiljanje žetonov, in nas obvestite, če imate kakšne težave."
+   },
+   "unavailable": {
+      "message": "Ni na voljo"
+   },
+   "unknown": {
+      "message": "Neznano"
+   },
+   "unknownNetwork": {
+      "message": "Neznano zasebno omrežje"
+   },
+   "unknownNetworkId": {
+      "message": "Neznan ID omrežja"
+   },
+   "uriErrorMsg": {
+      "message": "URI-ji zahtevajo ustrezno HTTP/HTTPS predpono."
+   },
+   "usaOnly": {
+      "description": "Using this exchange is limited to people inside the USA",
+      "message": "Samo za ZDA"
+   },
+   "useOldUI": {
+      "message": "Uporabi star uporabniški vmesnik"
+   },
+   "usedByClients": {
+      "message": "Uporablja jih več različnih odjemalcev"
+   },
+   "validFileImport": {
+      "message": "Za uvoz morate izbrati pravilno datoteko."
+   },
+   "vaultCreated": {
+      "message": "Račun je ustvarjen"
+   },
+   "viewAccount": {
+      "message": "Poglej račun"
+   },
+   "visitWebSite": {
+      "message": "Obiščite našo spletno stran"
+   },
+   "warning": {
+      "message": "Opozorilo"
+   },
+   "welcomeBeta": {
+      "message": "Dobrodošli v DefiMask Beta"
+   },
+   "whatsThis": {
+      "message": "Kaj je to?"
+   },
+   "youSign": {
+      "message": "Podpisani ste"
+   },
+   "yourSigRequested": {
+      "message": "Vaš podpis je bil zahtevan"
+   }
+}

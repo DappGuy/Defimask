@@ -1,0 +1,894 @@
+{
+   "accept": {
+      "message": "Annehmen"
+   },
+   "account": {
+      "message": "Account"
+   },
+   "accountDetails": {
+      "message": "Accountdetails"
+   },
+   "accountName": {
+      "message": "Accountname"
+   },
+   "addCustomToken": {
+      "message": "Eigenen Token hinzufügen"
+   },
+   "addToken": {
+      "message": "Token hinzufügen"
+   },
+   "addTokens": {
+      "message": "Token hinzufügen"
+   },
+   "address": {
+      "message": "Adresse"
+   },
+   "amount": {
+      "message": "Betrag"
+   },
+   "amountPlusGas": {
+      "message": "Betrag + Gas"
+   },
+   "appDescription": {
+      "description": "Die Beschreibung der Erweiterung",
+      "message": "Defi Browsererweiterung"
+   },
+   "appName": {
+      "description": "Der Name der Erweiterung",
+      "message": "DefiMask"
+   },
+   "approved": {
+      "message": "Genehmigt"
+   },
+   "attemptingConnect": {
+      "message": "Versuch mit der Blockchain zu verbinden."
+   },
+   "attributions": {
+      "message": "Was wir verwenden"
+   },
+   "available": {
+      "message": "Verfügbar"
+   },
+   "back": {
+      "message": "Zurück"
+   },
+   "balance": {
+      "message": "Guthaben:"
+   },
+   "balanceIsInsufficientGas": {
+      "message": "Guthaben unzureichend für den aktuellen gesamten Gasbetrag"
+   },
+   "balances": {
+      "message": "Deine Guthaben"
+   },
+   "beta": {
+      "message": "BETA"
+   },
+   "betweenMinAndMax": {
+      "description": "Helfer für die Eingabe von hex als dezimal",
+      "message": "Muss größer oder gleich $1 und kleiner oder gleich $2 sein."
+   },
+   "blockiesIdenticon": {
+      "message": "Blockies Identicon verwenden"
+   },
+   "borrowDharma": {
+      "message": "Mit Dharma ausleihen (Beta)"
+   },
+   "builtInCalifornia": {
+      "message": "DefiMask wurde in Kalifornien entwickelt und gebaut."
+   },
+   "buy": {
+      "message": "Kaufen"
+   },
+   "buyCoinbase": {
+      "message": "Auf Coinbase kaufen"
+   },
+   "buyCoinbaseExplainer": {
+      "message": "Coinbase ist die weltweit bekannteste Art und Weise um Bitcoin, Ethereum und Litecoin zu kaufen und verkaufen."
+   },
+   "cancel": {
+      "message": "Abbrechen"
+   },
+   "classicInterface": {
+      "message": "Klassische Oberfläche verwenden"
+   },
+   "clickCopy": {
+      "message": "Klicken um zu kopieren"
+   },
+   "confirm": {
+      "message": "Bestätigen"
+   },
+   "confirmContract": {
+      "message": "Smart Contract bestätigen"
+   },
+   "confirmPassword": {
+      "message": "Passwort bestätigen"
+   },
+   "confirmTransaction": {
+      "message": "Transaktion bestätigen"
+   },
+   "confirmed": {
+      "message": "Bestätigt"
+   },
+   "connectingToKovan": {
+      "message": " Verbinde zum Kovan Testnetzwerk"
+   },
+   "connectingToMainnet": {
+      "message": "Verbinde zum Ethereum Main Net"
+   },
+   "connectingToPOA": {
+      "message": "[Not translated]"
+   },
+   "connectingToRinkeby": {
+      "message": " Verbinde zum Rinkeby Testnetzwerk"
+   },
+   "connectingToRopsten": {
+      "message": " Verbinde zum Ropsten Testnetzwerk"
+   },
+   "connectingToUnknown": {
+      "message": "Verbinde zu einem unbekanntem Netzwerk"
+   },
+   "continue": {
+      "message": "Weiter"
+   },
+   "continueToCoinbase": {
+      "message": "Zu Coinbase fortfahren"
+   },
+   "contractDeployment": {
+      "message": "Smart Contract Ausführung"
+   },
+   "conversionProgress": {
+      "message": "Umtausch in Arbeit"
+   },
+   "copiedButton": {
+      "message": "Kopiert"
+   },
+   "copiedClipboard": {
+      "message": "In die Zwischenablage kopiert"
+   },
+   "copiedExclamation": {
+      "message": "Kopiert!"
+   },
+   "copiedSafe": {
+      "message": "Ich habe es an einen sicheren Ort kopiert"
+   },
+   "copy": {
+      "message": "Kopieren"
+   },
+   "copyButton": {
+      "message": " Kopieren "
+   },
+   "copyPrivateKey": {
+      "message": "Das ist Ihr Private Key (klicken um zu kopieren)"
+   },
+   "copyToClipboard": {
+      "message": "In die Zwischenablage kopieren"
+   },
+   "create": {
+      "message": "Erstellen"
+   },
+   "createAccount": {
+      "message": "Account erstellen"
+   },
+   "createDen": {
+      "message": "Erstellen"
+   },
+   "crypto": {
+      "description": "Börsentyp (Kryptowährungen)",
+      "message": "Krypto"
+   },
+   "currentConversion": {
+      "message": "Aktuelle Tauschwährung"
+   },
+   "currentNetwork": {
+      "message": "Aktuelles Netzwerk"
+   },
+   "currentRpc": {
+      "message": "Aktueller RPC"
+   },
+   "customGas": {
+      "message": "Gas anpassen"
+   },
+   "customRPC": {
+      "message": "Spezieller RPC"
+   },
+   "customize": {
+      "message": "Anpassen"
+   },
+   "decimal": {
+      "message": "Dezimalangabe der Präzision"
+   },
+   "decimalsMustZerotoTen": {
+      "message": "Die Dezimalangabe muss mindestens 0 und nicht höher als 36 sein."
+   },
+   "defaultNetwork": {
+      "message": "Das Standardnetzwerk für Ether Transaktionen ist das Main Net."
+   },
+   "denExplainer": {
+      "message": "Dein DEN ist dein passwortverschlüsselter Speicher innerhalb von DefiMask."
+   },
+   "deposit": {
+      "message": "Einzahlen"
+   },
+   "depositBTC": {
+      "message": "Zahle dein BTC in die unten stehende Adresse ein:"
+   },
+   "depositCoin": {
+      "description": "Teilt dem Benutzer mit welchen Token er beim Einzahlen mit Shapeshift ausgewählt hat",
+      "message": "Zahle deine $1 in die unten stehende Adresse ein"
+   },
+   "depositEth": {
+      "message": "Eth kaufen"
+   },
+   "depositEther": {
+      "message": "Ether einzahlen"
+   },
+   "depositFiat": {
+      "message": "Fiat einzahlen"
+   },
+   "depositFromAccount": {
+      "message": "Von einem anderen Account einzahlen"
+   },
+   "depositShapeShift": {
+      "message": "Mit ShapeShift einzahlen"
+   },
+   "depositShapeShiftExplainer": {
+      "message": "Wenn du andere Kryptowährungen besitzt, kannst du diese direkt mit Hilfe deiner DefiMask Wallet handeln und einzahlen. Du benötigst keinen Account."
+   },
+   "details": {
+      "message": "Details"
+   },
+   "directDeposit": {
+      "message": "Sofortige Einzahlung"
+   },
+   "directDepositEther": {
+      "message": "Sofort Ether einzahlen"
+   },
+   "directDepositEtherExplainer": {
+      "message": "Wenn du bereits Ether besitzt, ist die sofortige Einzahlung die schnellste Methode Ether in deine neue Wallet zu bekommen."
+   },
+   "done": {
+      "message": "Fertig"
+   },
+   "downloadStateLogs": {
+      "message": "Statelogs herunterladen"
+   },
+   "dropped": {
+      "message": "Abgewählt"
+   },
+   "edit": {
+      "message": "Editieren"
+   },
+   "editAccountName": {
+      "message": "Namen des Accounts editieren"
+   },
+   "emailUs": {
+      "message": "Schreib uns eine Mail!"
+   },
+   "encryptNewDen": {
+      "message": "Verschlüssele deine neue DEN"
+   },
+   "enterPassword": {
+      "message": "Passwort eingeben"
+   },
+   "enterPasswordConfirm": {
+      "message": "Gib dein neues Passwort zur Bestätigung ein"
+   },
+   "etherscanView": {
+      "message": "Account auf Etherscan anschauen"
+   },
+   "exchangeRate": {
+      "message": "Wechselrate"
+   },
+   "exportPrivateKey": {
+      "message": "Private Key exportieren"
+   },
+   "exportPrivateKeyWarning": {
+      "message": "Der Export von Private Keys verläuft auf eigene Verantwortung."
+   },
+   "failed": {
+      "message": "Fehlgeschlagen"
+   },
+   "fiat": {
+      "description": "Börsentyp",
+      "message": "FIAT"
+   },
+   "fileImportFail": {
+      "description": "Hilft dem Benutzer sein Benutzerkonto durch eine JSON Datei zu importieren",
+      "message": "Dateiimport fehlgeschlagen? Bitte hier klicken!"
+   },
+   "followTwitter": {
+      "message": "Folge uns auf Twitter"
+   },
+   "from": {
+      "message": "Von"
+   },
+   "fromShapeShift": {
+      "message": "Von ShapeShift"
+   },
+   "fromToSame": {
+      "message": "Ziel- und Ursprungsadresse dürfen nicht identisch sein"
+   },
+   "gas": {
+      "description": "Kleiner Hinweis bzgl. der Gaskosten",
+      "message": "Gas"
+   },
+   "gasFee": {
+      "message": "Gasgebühren"
+   },
+   "gasLimit": {
+      "message": "Gaslimit"
+   },
+   "gasLimitCalculation": {
+      "message": "Wir berechnen das empfohlene Gaslimit basierend auf der Erfolgsrate des Netzwerks."
+   },
+   "gasLimitRequired": {
+      "message": "Gaslimit benötigt"
+   },
+   "gasLimitTooLow": {
+      "message": "Gaslimit muss mindestens 21000 betragen"
+   },
+   "gasPrice": {
+      "message": "Gaspreis (GWEI)"
+   },
+   "gasPriceCalculation": {
+      "message": "Wir berechnen den empfohlenen Gaspreis basierend auf der Erfolgsrate des Netzwerks."
+   },
+   "gasPriceRequired": {
+      "message": "Gaspreis benötigt"
+   },
+   "generatingSeed": {
+      "message": "Seed generieren..."
+   },
+   "getEther": {
+      "message": "Ether holen"
+   },
+   "getEtherFromFaucet": {
+      "description": "Zeigt den Netzwerknamen für den Ether Faucet an",
+      "message": "Ether für $1 vom Faucet holen"
+   },
+   "greaterThanMin": {
+      "description": "Helfer für die Eingabe von hex als dezimal",
+      "message": "Muss größer oder gleich $1 sein."
+   },
+   "here": {
+      "description": "z.B. für klick hier für mehr Informationen (in Zusammenhang mit troubleTokenBalances)",
+      "message": "hier"
+   },
+   "hereList": {
+      "message": "Hier ist eine Liste!!!!"
+   },
+   "hide": {
+      "message": "Ausblenden"
+   },
+   "hideToken": {
+      "message": "Token ausblenden"
+   },
+   "hideTokenPrompt": {
+      "message": "Token ausblenden?"
+   },
+   "holdEther": {
+      "message": "Es erlaubt dir ether & Token zu halten und dient dir als Verbindung zu dezentralisierten Applikationen."
+   },
+   "howToDeposit": {
+      "message": "Wie möchtest du Ether einzahlen?"
+   },
+   "import": {
+      "description": "Button um den Account aus einer ausgewählten Datei zu importieren",
+      "message": "Importieren"
+   },
+   "importAccount": {
+      "message": "Account importieren"
+   },
+   "importAccountMsg": {
+      "message": " Importierte Accounts werden nicht mit der Seed-Wörterfolge  deines ursprünglichen DefiMask Accounts verknüpft. Erfahre mehr über importierte Accounts."
+   },
+   "importAnAccount": {
+      "message": "Einen Account importieren"
+   },
+   "importDen": {
+      "message": "Vorhandenes DEN importieren"
+   },
+   "imported": {
+      "description": "Status der angezeigt wird wenn ein Benutzerkonto vollständig in das Schlüsselbund geladen wurde.",
+      "message": "Importiert"
+   },
+   "info": {
+      "message": "Info"
+   },
+   "infoHelp": {
+      "message": "Info & Hilfe"
+   },
+   "insufficientFunds": {
+      "message": "Nicht genügend Guthaben."
+   },
+   "insufficientTokens": {
+      "message": "Nicht genügend Token."
+   },
+   "invalidAddress": {
+      "message": "Ungültige Adresse"
+   },
+   "invalidAddressRecipient": {
+      "message": "Empfängeradresse ist unzulässig"
+   },
+   "invalidGasParams": {
+      "message": "Ungültige Gasparameter"
+   },
+   "invalidInput": {
+      "message": "Ungültige Eingabe."
+   },
+   "invalidRPC": {
+      "message": "Ungültige RPC URI"
+   },
+   "invalidRequest": {
+      "message": "Ungültige Abfrage"
+   },
+   "jsonFail": {
+      "message": "Irgendetwas ist schief gelaufen. Bitte überprüfe ob deine JSON Datei korrekt formatiert ist."
+   },
+   "jsonFile": {
+      "description": "Dateiformat für das Importieren eines Accounts",
+      "message": "JSON Datei"
+   },
+   "knowledgeDataBase": {
+      "message": "Schau in unsere Wissensdatenbank"
+   },
+   "kovan": {
+      "message": "Kovan Testnetzwerk"
+   },
+   "lessThanMax": {
+      "description": "Helfer für die Eingabe von hex als dezimal",
+      "message": "Muss kleiner oder gleich $1 sein."
+   },
+   "likeToAddTokens": {
+      "message": "Möchtest du diese Token hinzufügen?"
+   },
+   "limit": {
+      "message": "Limit"
+   },
+   "links": {
+      "message": "Links"
+   },
+   "loading": {
+      "message": "Laden..."
+   },
+   "loadingTokens": {
+      "message": "Token laden..."
+   },
+   "localhost": {
+      "message": "Localhost 8545"
+   },
+   "login": {
+      "message": "Login"
+   },
+   "logout": {
+      "message": "Ausloggen"
+   },
+   "loose": {
+      "message": "Frei"
+   },
+   "loweCaseWords": {
+      "message": "Die Wörter der Seed-Wörterfolgen sind alle kleingeschrieben"
+   },
+   "mainnet": {
+      "message": "Ethereum Main Net"
+   },
+   "max": {
+      "message": "Max"
+   },
+   "message": {
+      "message": "Nachricht"
+   },
+   "metamaskDescription": {
+      "message": "DefiMask ist ein sicherer Identitätssafe für Ethereum."
+   },
+   "min": {
+      "message": "Minimum"
+   },
+   "mustSelectOne": {
+      "message": "Du musst mindestens 1 Token auswählen."
+   },
+   "myAccounts": {
+      "message": "Meine Accounts"
+   },
+   "needEtherInWallet": {
+      "message": "Um dezentralisierte Applikationen mit DefiMask verwenden zu können, benötigst du Ether in deiner Wallet."
+   },
+   "needImportFile": {
+      "description": "Benutzer importiert ein Benutzerkonto und muss eine Datei hinzufügen um fortzufahren",
+      "message": "Für den Import musst du eine Datei auswählen."
+   },
+   "needImportPassword": {
+      "description": "Passwort und Datei sind notwendig um einen Account zu importieren",
+      "message": "Für die ausgewählte Datei muss ein Passwort eingegeben werden."
+   },
+   "negativeETH": {
+      "message": "Negative ETH Beträge können nicht versendet werden."
+   },
+   "networks": {
+      "message": "Netzwerke"
+   },
+   "newAccount": {
+      "message": "Neuer Account"
+   },
+   "newAccountNumberName": {
+      "description": "Standardname für einen weiteren Account der angelegt wird, wenn create account screen geklickt wird",
+      "message": "Account  $1"
+   },
+   "newContract": {
+      "message": "Neuer Smart Contract"
+   },
+   "newPassword": {
+      "message": "Neues Passwort (min. 8 Zeichen)"
+   },
+   "newPassword8Chars": {
+      "message": "Neues Passwort (min. 8 Zeichen)"
+   },
+   "newRPC": {
+      "message": "Neue RPC URL"
+   },
+   "newRecipient": {
+      "message": "Neuer Empfänger"
+   },
+   "next": {
+      "message": "Weiter"
+   },
+   "noAddressForName": {
+      "message": "Für den angegebene Namen wurde keine Adresse eingegeben."
+   },
+   "noDeposits": {
+      "message": "Keine Einzahlung erhalten"
+   },
+   "noTransactionHistory": {
+      "message": "Keine Transaktionshistorie."
+   },
+   "noTransactions": {
+      "message": "Keine Transaktionen"
+   },
+   "notStarted": {
+      "message": "Nicht gestartet"
+   },
+   "ok": {
+      "message": "Ok"
+   },
+   "oldUI": {
+      "message": "Alte Oberfläche"
+   },
+   "oldUIMessage": {
+      "message": "Du bist zur alten Oberfläche zurückgewechselt. Du kannst mit Hilfe der Option im oberen rechten Dropdown Menü zur neuen Oberfläche zurückwechseln."
+   },
+   "onlySendToEtherAddress": {
+      "message": "ETH unbedingt nur zu einer Ethereum Adresse senden."
+   },
+   "or": {
+      "description": "Wahl zwischen erstellen oder importieren eines Accounts.",
+      "message": "oder"
+   },
+   "passwordCorrect": {
+      "message": "Bitte überzeuge dich davon, dass dein Passwort korrekt ist."
+   },
+   "passwordMismatch": {
+      "description": "Im Passwort erstellen Prozess stimmen beide Passwörter nicht miteinander überein",
+      "message": "Passwörter stimmen nicht überein"
+   },
+   "passwordNotLongEnough": {
+      "message": "Passwort ist nicht lang genug"
+   },
+   "passwordShort": {
+      "description": "Im Passwort erstellen Prozess ist das eingegebene Passwort nicht lang genug um sicher zu sein",
+      "message": "Passwort ist nicht lang genug"
+   },
+   "passwordsDontMatch": {
+      "message": "Passwörter stimmen nicht überein"
+   },
+   "pastePrivateKey": {
+      "description": "Für den Import eine Accounts mit Hilfe eines Private Keys",
+      "message": "Füge deine Private Key Zeichenfolge hier ein:"
+   },
+   "pasteSeed": {
+      "message": "Füge deine Seed-Wörterfolge hier ein!"
+   },
+   "personalAddressDetected": {
+      "message": "Personalisierte Adresse identifiziert. Bitte füge die Token Contract Adresse ein."
+   },
+   "pleaseReviewTransaction": {
+      "message": "Bitte überprüfe deine Transaktion."
+   },
+   "poa": {
+      "message": "[Not translated]"
+   },
+   "privacyMsg": {
+      "message": "Datenschutzrichtlinie"
+   },
+   "privateKey": {
+      "description": "Wähle diesen Dateityp um damit einen Account zu importieren",
+      "message": "Private Key"
+   },
+   "privateKeyWarning": {
+      "message": "Warnung: Niemals jemanden deinen Private Key mitteilen. Jeder der im Besitz deines Private Keys ist, kann jegliches Guthaben deines Accounts stehlen."
+   },
+   "privateNetwork": {
+      "message": "Privates Netzwerk"
+   },
+   "qrCode": {
+      "message": "QR Code anzeigen"
+   },
+   "readMore": {
+      "message": "Hier mehr erfahren."
+   },
+   "readMore2": {
+      "message": "Mehr erfahren."
+   },
+   "readdToken": {
+      "message": "Du kannst diesen Token immer erneut hinzufügen, indem du in den Menüpunkt \"Token hinzufügen\" in den Einstellungen deines Accounts gehst."
+   },
+   "receive": {
+      "message": "Erhalten"
+   },
+   "recipientAddress": {
+      "message": "Empfängeradresse"
+   },
+   "refundAddress": {
+      "message": "Rückerstattungsadresse"
+   },
+   "rejected": {
+      "message": "Abgelehnt"
+   },
+   "required": {
+      "message": "Benötigt"
+   },
+   "resetAccount": {
+      "message": "Account zurücksetzten"
+   },
+   "restoreFromSeed": {
+      "message": "Mit Hilfe der Seed-Wörterfolge wiederherstellen."
+   },
+   "restoreVault": {
+      "message": "Vault wiederherstellen"
+   },
+   "retryWithMoreGas": {
+      "message": "Versuche es hier mit einem höheren Gaspreis noch einmal"
+   },
+   "revealSeedWords": {
+      "message": "Seed-Wörterfolge anzeigen"
+   },
+   "revealSeedWordsWarning": {
+      "message": "Bitte niemals deine Seed-Wörterfolge an einem öffentlichen Ort kenntlich machen. Mit diesen Wörtern können alle deine Accounts gestohlen werden."
+   },
+   "revert": {
+      "message": "Rückgängig machen"
+   },
+   "rinkeby": {
+      "message": "Rinkeby Testnetzwerk"
+   },
+   "ropsten": {
+      "message": "Ropsten Testnetzwerk"
+   },
+   "sampleAccountName": {
+      "description": "Dem Benutzer helfen das Konzept des Hinzufügens eines menschlich lesbaren Namen für den Account hinzuzufügen",
+      "message": "Z.B. mein neuer Account"
+   },
+   "save": {
+      "message": "Speichern"
+   },
+   "saveAsFile": {
+      "description": "Prozess des Exportieren eines Accounts",
+      "message": "Als Datei speichern"
+   },
+   "saveSeedAsFile": {
+      "message": "Seed-Wörterfolge als Datei speichern"
+   },
+   "search": {
+      "message": "Suche"
+   },
+   "secretPhrase": {
+      "message": "Gib die 12 Wörter deiner geheimem Wörterfolge ein um deinen Vault wiederherzustellen."
+   },
+   "seedPhraseReq": {
+      "message": "Seed-Wörterfolgen bestehen aus 12 Wörtern"
+   },
+   "select": {
+      "message": "Auswählen"
+   },
+   "selectCurrency": {
+      "message": "Währung auswählen"
+   },
+   "selectService": {
+      "message": "Service auswählen"
+   },
+   "selectType": {
+      "message": "Typ auswählen"
+   },
+   "send": {
+      "message": "Senden"
+   },
+   "sendETH": {
+      "message": "ETH senden"
+   },
+   "sendTokens": {
+      "message": "Token senden"
+   },
+   "sendTokensAnywhere": {
+      "message": "Token zu einer beliebigen Person mit einem Ethereumaccount senden"
+   },
+   "settings": {
+      "message": "Einstellungen"
+   },
+   "shapeshiftBuy": {
+      "message": "Mit Shapeshift kaufen"
+   },
+   "showPrivateKeys": {
+      "message": "Private Keys anzeigen"
+   },
+   "showQRCode": {
+      "message": "QR Code anzeigen"
+   },
+   "sigRequest": {
+      "message": "Unterschriftsanfrage"
+   },
+   "sigRequested": {
+      "message": "Unterschrift angefragt"
+   },
+   "sign": {
+      "message": "Unterschreiben"
+   },
+   "signMessage": {
+      "message": "Nachricht unterschreiben"
+   },
+   "signNotice": {
+      "message": "Das Unterschreiben dieser Nachricht kann gefährliche Nebeneffekte haben. Bitte nur Nachrichten von Webseiten unterschreiben denen du deinen vollständigen Account anvertrauen würdest. Diese gefährliche Variante wird in zukünftigen Versionen entfernt werden."
+   },
+   "signed": {
+      "message": "Unterschrieben"
+   },
+   "spaceBetween": {
+      "message": "Es darf nur ein Leerzeichen zwischen den Wörtern sein"
+   },
+   "stateLogError": {
+      "message": "Fehler beim Abfragen der Statelogs."
+   },
+   "stateLogs": {
+      "message": "Statelogs"
+   },
+   "stateLogsDescription": {
+      "message": "Statelogs zeigen die Public Adresse und die gesendeten Transaktionen deines Accounts."
+   },
+   "status": {
+      "message": "Status"
+   },
+   "submit": {
+      "message": "Einreichen"
+   },
+   "submitted": {
+      "message": "Abgeschickt"
+   },
+   "supportCenter": {
+      "message": "Gehe zu unserem Support Center"
+   },
+   "symbolBetweenZeroTen": {
+      "message": "Das Symbol muss zwischen 0 und 10 Zeichen haben."
+   },
+   "takesTooLong": {
+      "message": "Dauert es zu lang?"
+   },
+   "terms": {
+      "message": "Nutzungsbedingungen"
+   },
+   "testFaucet": {
+      "message": "Testfaucet"
+   },
+   "to": {
+      "message": "An"
+   },
+   "toETHviaShapeShift": {
+      "description": "Das System wird den Einzahlungstyp im Beginn der Nachricht eintragen",
+      "message": "$1 an ETH via ShapeShift"
+   },
+   "tokenAddress": {
+      "message": "Tokenadresse"
+   },
+   "tokenAlreadyAdded": {
+      "message": "Der Token wurde bereits hinzugefügt."
+   },
+   "tokenBalance": {
+      "message": "Dein Tokenguthaben beträgt:"
+   },
+   "tokenSelection": {
+      "message": "Suche nach Token oder wähle aus einer Liste der beliebtesten Token aus."
+   },
+   "tokenSymbol": {
+      "message": "Tokensymbol"
+   },
+   "tokenWarning1": {
+      "message": "Behalte die Token die du mit deinem DefiMask Account gekauft hast im Blick. Wenn du Token mit einem anderen Account gekauft hast, werden diese hier nicht angezeigt."
+   },
+   "total": {
+      "message": "Gesamt"
+   },
+   "transactionMemo": {
+      "message": "Transaktionsmemo (optional)"
+   },
+   "transactionNumber": {
+      "message": "Transaktionsnummer"
+   },
+   "transactions": {
+      "message": "Transaktionen"
+   },
+   "transfers": {
+      "message": "Transfers"
+   },
+   "troubleTokenBalances": {
+      "description": "Gefolgt von einem Link (hier) um die Tokenguthaben anzuzeigen",
+      "message": "Wir haben Schwierigkeiten dein Tokenguthaben zu laden. Du kannst es hier anzeigen lassen"
+   },
+   "twelveWords": {
+      "message": "Diese 12 Wörter stellen die einzige Möglichkeit dar deinen DefiMask Account wiederherzustellen. Speichere sie daher an einem sicheren und geheimen Ort."
+   },
+   "typePassword": {
+      "message": "Passwort eingeben"
+   },
+   "uiWelcome": {
+      "message": "Willkommen zur neuen Oberfläche (Beta)"
+   },
+   "uiWelcomeMessage": {
+      "message": "Du verwendest  nun die neue DefiMask Oberfläche. Schau dich um, teste die neuen Features wie z.B. das Senden von Token und lass es uns wissen falls du irgendwelche Probleme hast."
+   },
+   "unapproved": {
+      "message": "Nicht genehmigt"
+   },
+   "unavailable": {
+      "message": "Nicht verfügbar"
+   },
+   "unknown": {
+      "message": "Unbekannt"
+   },
+   "unknownNetwork": {
+      "message": "Unbekanntes privates Netzwerk"
+   },
+   "unknownNetworkId": {
+      "message": "Unbekannte Netzwerk ID"
+   },
+   "uriErrorMsg": {
+      "message": "URIs benötigen die korrekten HTTP/HTTPS Präfixe."
+   },
+   "usaOnly": {
+      "description": "Diese Börse ist nur für Einwohner der USA verfügbar",
+      "message": "Nur USA "
+   },
+   "useOldUI": {
+      "message": "Alte Oberfläche verwenden"
+   },
+   "usedByClients": {
+      "message": "Verwendet von einer Reihe verschiedenen Kunden"
+   },
+   "validFileImport": {
+      "message": "Du musst eine gültige Datei für den Import auswählen."
+   },
+   "vaultCreated": {
+      "message": "Vault erstellt"
+   },
+   "viewAccount": {
+      "message": " Account einsehen"
+   },
+   "visitWebSite": {
+      "message": "Gehe zu unserer Webseite"
+   },
+   "walletSeed": {
+      "message": "Wallet Seed"
+   },
+   "warning": {
+      "message": "Warnung"
+   },
+   "welcomeBeta": {
+      "message": "Willkommen zu DefiMask Beta"
+   },
+   "whatsThis": {
+      "message": "Was ist das?"
+   },
+   "youSign": {
+      "message": "Du unterschreibst"
+   },
+   "yourSigRequested": {
+      "message": "Deine Unterschrift wird angefordert"
+   }
+}
